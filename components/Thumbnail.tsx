@@ -2,7 +2,7 @@ import { Movie } from '../typings'
 import Image from 'next/image'
 import React from 'react'
 interface Props{
-    //movie:Movie | DocumentData
+    //movie:Movie | DocumentData[]
     movie:Movie
 }
 
